@@ -1,4 +1,8 @@
-# themes
+<div align="center">
+
+# Themes
+
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Chrome](https://img.shields.io/badge/Chrome-Theme-4285F4?logo=googlechrome)](https://www.google.com/chrome/)
@@ -9,7 +13,11 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 ---
 
+<div align="center">
+
 ## B - Cube
+
+</div>
 
 **B - Cube**, aynı renk paletini kullanan, sade ve modern iki tarayıcı temasıdır. Yalnızca koyu modda kullanılır; turuncu, yeşil-sarı ve mavi vurgularla göz yormayan koyu arka plan sunar.
 
@@ -22,9 +30,13 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 ---
 
+<div align="center">
+
 ## Hızlı kurulum / Quick install
 
 ### Chrome
+
+</div>
 
 1. Depoyu indirin veya klonlayın.
 2. Chrome’da `chrome://extensions` → **Geliştirici modu** → **Paketlenmemiş öğe yükle**.
@@ -32,7 +44,11 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 *Download or clone this repo → Chrome: `chrome://extensions` → Developer mode → Load unpacked → select `google-chrome-themes/b-cube`.*
 
+<div align="center">
+
 ### Firefox
+
+</div>
 
 - **Mağazadan:** [Mozilla Add-ons’ta B - Cube](https://addons.mozilla.org/firefox/addon/b-cube/)  
 - **Manuel:** Depoyu indirin veya klonlayın → Firefox’ta `about:debugging` → **Bu Firefox** → **Geçici eklenti yükle** → `mozilla-firefox-themes/b-cube` içindeki `manifest.json` veya b-cube klasörünü seçin.
@@ -41,7 +57,11 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 ---
 
+<div align="center">
+
 ## Ortak özellikler / Shared features
+
+</div>
 
 - **Koyu tema** — Göz yormayan koyu renk paleti  
 - **Aynı görünüm** — Chrome ve Firefox’ta uyumlu renkler  
@@ -50,7 +70,11 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 ---
 
+<div align="center">
+
 ## Repo yapısı / Repository structure
+
+</div>
 
 ```
 themes/
@@ -76,7 +100,11 @@ Her tema kendi klasöründe ayrı README ve lisans bilgisi içerir.
 
 ---
 
+<div align="center">
+
 ## Lisans / License
+
+</div>
 
 - **Chrome** teması: [LICENSE](google-chrome-themes/b-cube/LICENSE) (MIT).  
 - **Firefox** teması: [LICENSE](mozilla-firefox-themes/b-cube/LICENSE) (MIT).
