@@ -1,4 +1,8 @@
+<div align="center">
+
 # B - Cube
+
+</div>
 
 <div align="center">
 
@@ -17,7 +21,11 @@ Minimal, modern Firefox static theme (dark only).
 
 ---
 
+<div align="center">
+
 ## Kendi bilgisayarında yükleme / Install on your computer
+
+</div>
 
 1. Bu depoyu indirin veya klonlayın. / *Download or clone this repository.*
 2. Firefox’ta adres çubuğuna `about:debugging` yazıp girin. / *In Firefox, type `about:debugging` in the address bar and press Enter.*
@@ -29,7 +37,11 @@ Tema yüklenecektir; geçici eklenti her Firefox yeniden başlatıldığında ka
 
 ---
 
+<div align="center">
+
 ## Görünüm / Preview
+
+</div>
 
 Temanın tarayıcıda nasıl göründüğü / How the theme looks in the browser:
 
@@ -40,7 +52,11 @@ Temanın tarayıcıda nasıl göründüğü / How the theme looks in the browser
 
 ---
 
+<div align="center">
+
 ## Özellikler / Features
+
+</div>
 
 - **Koyu tema** — Göz yormayan koyu renk paleti  
 - **Statik tema** — Yalnızca `manifest.json`; ek script veya izin gerekmez  
@@ -48,20 +64,32 @@ Temanın tarayıcıda nasıl göründüğü / How the theme looks in the browser
 
 ---
 
+<div align="center">
+
 ## Geliştirme / Development
 
 ### Gereksinimler / Requirements
 
+</div>
+
 - [Node.js](https://nodejs.org/) (LTS önerilir / LTS recommended)
 - [Firefox](https://www.mozilla.org/firefox/)
 
+<div align="center">
+
 ### Bağımlılıkları yükleme / Install dependencies
+
+</div>
 
 ```bash
 npm install
 ```
 
+<div align="center">
+
 ### Geliştirme modunda çalıştırma / Run in development
+
+</div>
 
 ```bash
 npm run run
@@ -70,7 +98,11 @@ npm run run
 Firefox’ta geçici bir profil ile eklenti açılır.  
 *Opens the add-on in Firefox with a temporary profile.*
 
+<div align="center">
+
 ### Derleme (paket oluşturma) / Build (create package)
+
+</div>
 
 ```bash
 npm run build
@@ -79,7 +111,11 @@ npm run build
 Çıktı `web-ext-artifacts/` klasöründe `.xpi` dosyası olarak oluşur.  
 *Output is generated as a `.xpi` file in the `web-ext-artifacts/` folder.*
 
+<div align="center">
+
 ### Lint
+
+</div>
 
 ```bash
 npm run lint
@@ -87,7 +123,11 @@ npm run lint
 
 ---
 
+<div align="center">
+
 ## Proje yapısı / Project structure
+
+</div>
 
 ```
 b-cube/
@@ -102,7 +142,11 @@ b-cube/
 
 ---
 
+<div align="center">
+
 ## Lisans / License
+
+</div>
 
 Bu tema [MIT License](LICENSE) ile lisanslanmıştır.  
 This theme is licensed under the [MIT License](LICENSE).

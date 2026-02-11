@@ -1,4 +1,8 @@
+<div align="center">
+
 # B - Cube
+
+</div>
 
 <div align="center">
 
@@ -17,7 +21,11 @@ Minimal, modern Chrome theme (dark only).
 
 ---
 
+<div align="center">
+
 ## Kendi bilgisayarında yükleme / Install on your computer
+
+</div>
 
 1. Bu depoyu indirin veya klonlayın. / *Download or clone this repository.*
 2. Chrome’da adres çubuğuna `chrome://extensions` yazıp gidin. / *In Chrome, go to `chrome://extensions`.*
@@ -30,7 +38,11 @@ Tema etkinleşir; Chrome ayarlarından **Görünüm → Temalar** ile temayı se
 
 ---
 
+<div align="center">
+
 ## Görünüm / Preview
+
+</div>
 
 Temanın tarayıcıda nasıl göründüğü / How the theme looks in the browser:
 
@@ -41,7 +53,11 @@ Temanın tarayıcıda nasıl göründüğü / How the theme looks in the browser
 
 ---
 
+<div align="center">
+
 ## Özellikler / Features
+
+</div>
 
 - **Koyu tema** — Göz yormayan koyu renk paleti  
 - **Minimal tasarım** — Sade çerçeve, sekme ve araç çubuğu renkleri  
@@ -49,7 +65,11 @@ Temanın tarayıcıda nasıl göründüğü / How the theme looks in the browser
 
 ---
 
+<div align="center">
+
 ## Proje yapısı / Project structure
+
+</div>
 
 ```
 b-cube/
@@ -67,7 +87,11 @@ Görsel açıklamaları için: [images/README.md](images/README.md).
 
 ---
 
+<div align="center">
+
 ## Lisans / License
+
+</div>
 
 Bu tema [MIT License](LICENSE) ile lisanslanmıştır.  
 This theme is licensed under the [MIT License](LICENSE).

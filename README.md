@@ -2,7 +2,7 @@
 
 # Themes
 
-</div>
+<div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Chrome](https://img.shields.io/badge/Chrome-Theme-4285F4?logo=googlechrome)](https://www.google.com/chrome/)
@@ -10,6 +10,10 @@
 
 Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).  
 *Browser themes — **B - Cube** (Chrome & Firefox, dark only).*
+
+</div>
+
+</div>
 
 ---
 
