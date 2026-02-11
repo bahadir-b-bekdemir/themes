@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.1",
+  "name": "B - Cube",
+  "description": "Minimal, modern Firefox theme (dark only).",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "b-cube@b-cube.xyz"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#171c21",
+      "frame_inactive": "#14191e",
+      "tab_background_text": "#41a5d0",
+      "tab_text": "#ff8c42",
+      "tab_selected": "#222830",
+      "tab_line": "#ff8c42",
+      "toolbar": "#171c21",
+      "toolbar_text": "#b8e022",
+      "toolbar_field": "#222830",
+      "toolbar_field_text": "#b8e022",
+      "toolbar_field_border": "#41a5d0",
+      "toolbar_field_focus": "#222830",
+      "toolbar_field_text_focus": "#b8e022",
+      "icons": "#ff8c42",
+      "icons_attention": "#ff8c42",
+      "button_background_hover": "#4e2d1a",
+      "button_background_active": "#4e2d1a",
+      "popup": "#222830",
+      "popup_text": "#eaeaea",
+      "popup_border": "#41a5d0",
+      "popup_highlight": "#2a3540",
+      "popup_highlight_text": "#b8e022",
+      "ntp_background": "#171c21",
+      "ntp_text": "#b8e022",
+      "sidebar": "#171c21",
+      "sidebar_text": "#b8e022",
+      "sidebar_highlight": "#222830",
+      "sidebar_highlight_text": "#ff8c42",
+      "tab_loading": "#ff8c42"
+    }
+  }
+}

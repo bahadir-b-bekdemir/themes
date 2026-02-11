@@ -1,0 +1,21 @@
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE / editör
+.idea/
+.vscode/
+.cursor/
+*.sublime-*
+
+# Chrome önbellek / Web Store paketi
+Cached Theme.pak
+*.zip
+dist/
+node_modules/
+
+# Loglar
+*.log

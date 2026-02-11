@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.1",
+  "name": "B - Cube",
+  "description": "Minimal, modern Chrome theme (dark only).",
+  "icons": {
+    "16": "images/b-cube-logo.png",
+    "32": "images/b-cube-logo.png",
+    "48": "images/b-cube-logo.png",
+    "128": "images/b-cube-logo.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [23, 28, 33],
+      "frame_inactive": [20, 25, 30],
+      "frame_incognito": [23, 28, 33],
+      "frame_incognito_inactive": [20, 25, 30],
+      "toolbar": [23, 28, 33],
+      "toolbar_text": [184, 224, 34],
+      "toolbar_button_icon": [255, 140, 66],
+      "tab_text": [255, 140, 66],
+      "tab_background_text": [65, 165, 208],
+      "tab_background_text_inactive": [65, 165, 208],
+      "tab_background_text_incognito": [65, 165, 208],
+      "tab_background_text_incognito_inactive": [65, 165, 208],
+      "background_tab": [34, 40, 48],
+      "background_tab_inactive": [34, 40, 48],
+      "background_tab_incognito": [34, 40, 48],
+      "background_tab_incognito_inactive": [34, 40, 48],
+      "omnibox_background": [34, 40, 48],
+      "omnibox_text": [184, 224, 34],
+      "button_background": [78, 45, 26],
+      "ntp_background": [23, 28, 33],
+      "ntp_text": [184, 224, 34],
+      "ntp_link": [65, 165, 208],
+      "ntp_header": [184, 224, 34],
+      "bookmark_text": [184, 224, 34]
+    }
+  }
+}

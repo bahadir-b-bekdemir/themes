@@ -1,0 +1,14 @@
+{
+  "name": "b-cube",
+  "version": "1.0.1",
+  "description": "Minimal, modern Firefox theme (dark only).",
+  "private": true,
+  "scripts": {
+    "run": "web-ext run",
+    "build": "web-ext build",
+    "lint": "web-ext lint"
+  },
+  "devDependencies": {
+    "web-ext": "^7.13.0"
+  }
+}

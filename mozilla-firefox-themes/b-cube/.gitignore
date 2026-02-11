@@ -1,0 +1,30 @@
+# Bağımlılıklar
+node_modules/
+
+# web-ext çıktıları
+web-ext-artifacts/
+*.xpi
+*.zip
+.web-extension-id
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE / editör
+.idea/
+.vscode/
+.cursor/
+*.sublime-*
+
+# Loglar
+*.log
+npm-debug.log*
+
+# Ortam / gizli
+.env
+.env.local
+.env.*.local
