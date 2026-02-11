@@ -5,7 +5,10 @@
   "description": "Minimal, modern Firefox theme (dark only).",
   "browser_specific_settings": {
     "gecko": {
-      "id": "b-cube@b-cube.xyz"
+      "id": "b-cube@b-cube.xyz",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   },
   "theme": {

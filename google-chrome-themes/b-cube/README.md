@@ -1,13 +1,19 @@
 # B - Cube
 
+<div align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Chrome](https://img.shields.io/badge/Chrome-Theme-4285F4?logo=googlechrome)](https://www.google.com/chrome/)
+
+<img src="images/b-cube-logo.png" alt="B - Cube logo" width="48" height="48" />
 
 Minimal, modern Chrome theme (dark only).
 
 **B - Cube**, Chrome için yalnızca koyu modda kullanılabilen, sade ve modern bir temadır.
 
 **Kaynak / Source:** [github.com/bahadir-b-bekdemir/themes → google-chrome-themes/b-cube](https://github.com/bahadir-b-bekdemir/themes/tree/main/google-chrome-themes/b-cube)
+
+</div>
 
 ---
 
@@ -63,7 +69,7 @@ Görsel açıklamaları için: [images/README.md](images/README.md).
 
 ## Lisans / License
 
-Bu proje [MIT License](LICENSE) altında lisanslanmıştır. Mağaza dağıtımı için lisans metnindeki ek kısıtlamalar geçerlidir.  
-This project is licensed under the [MIT License](LICENSE). Additional restrictions for store distribution apply; see the license file.
+Bu tema [MIT License](LICENSE) ile lisanslanmıştır.  
+This theme is licensed under the [MIT License](LICENSE).
 
 © 2026 [Bahadır B. Bekdemir](mailto:bahadir.b.bekdemir@hotmail.com)

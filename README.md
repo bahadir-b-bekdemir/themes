@@ -18,7 +18,7 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 | Tarayıcı / Browser | Klasör / Folder | README |
 |--------------------|-----------------|--------|
 | **Chrome** | [google-chrome-themes/b-cube](google-chrome-themes/b-cube) | [Kurulum & detay](google-chrome-themes/b-cube/README.md) |
-| **Firefox** | [mozilla-firefox-themes/b-cube](mozilla-firefox-themes/b-cube) | [Kurulum & detay](mozilla-firefox-themes/b-cube/README.md) |
+| **Firefox** | [mozilla-firefox-themes/b-cube](mozilla-firefox-themes/b-cube) | [Kurulum & detay](mozilla-firefox-themes/b-cube/README.md) · [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/b-cube/) |
 
 ---
 
@@ -34,11 +34,10 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 ### Firefox
 
-1. Depoyu indirin veya klonlayın.
-2. Firefox’ta `about:debugging` → **Bu Firefox** → **Geçici eklenti yükle**.
-3. `mozilla-firefox-themes/b-cube` içindeki `manifest.json` dosyasını (veya b-cube klasörünü) seçin.
+- **Mağazadan:** [Mozilla Add-ons’ta B - Cube](https://addons.mozilla.org/firefox/addon/b-cube/)  
+- **Manuel:** Depoyu indirin veya klonlayın → Firefox’ta `about:debugging` → **Bu Firefox** → **Geçici eklenti yükle** → `mozilla-firefox-themes/b-cube` içindeki `manifest.json` veya b-cube klasörünü seçin.
 
-*Download or clone this repo → Firefox: `about:debugging` → This Firefox → Load Temporary Add-on → select the `b-cube` folder under `mozilla-firefox-themes/b-cube`.*
+*From store: [B - Cube on Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/b-cube/). Or: download/clone this repo → Firefox: `about:debugging` → This Firefox → Load Temporary Add-on → select the `b-cube` folder.*
 
 ---
 
@@ -56,7 +55,7 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 ```
 themes/
 ├── README.md                 # Bu dosya / This file
-├── GITHUB-YAYINLAMA-REHBERI.md
+├── LICENSE
 ├── google-chrome-themes/
 │   └── b-cube/               # Chrome teması / Chrome theme
 │       ├── manifest.json
@@ -79,7 +78,7 @@ Her tema kendi klasöründe ayrı README ve lisans bilgisi içerir.
 
 ## Lisans / License
 
-- **Chrome** teması: [google-chrome-themes/b-cube/LICENSE](google-chrome-themes/b-cube/LICENSE) (MIT + mağaza dağıtımı kısıtlaması)  
-- **Firefox** teması: [mozilla-firefox-themes/b-cube/LICENSE](mozilla-firefox-themes/b-cube/LICENSE) (MIT)
+- **Chrome** teması: [LICENSE](google-chrome-themes/b-cube/LICENSE) (MIT).  
+- **Firefox** teması: [LICENSE](mozilla-firefox-themes/b-cube/LICENSE) (MIT).
 
 © 2026 [Bahadır B. Bekdemir](mailto:bahadir.b.bekdemir@hotmail.com)

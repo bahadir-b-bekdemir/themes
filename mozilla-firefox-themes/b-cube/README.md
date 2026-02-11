@@ -1,5 +1,7 @@
 # B - Cube
 
+<div align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Firefox](https://img.shields.io/badge/Firefox-Theme-FF7139?logo=firefox)](https://www.mozilla.org/firefox/)
 
@@ -7,7 +9,11 @@ Minimal, modern Firefox static theme (dark only).
 
 **B - Cube**, Firefox için yalnızca koyu modda kullanılabilen, sade ve modern bir statik temadır.
 
+**Mozilla Add-ons:** [addons.mozilla.org/firefox/addon/b-cube](https://addons.mozilla.org/firefox/addon/b-cube)
+
 **Kaynak / Source:** [github.com/bahadir-b-bekdemir/themes → mozilla-firefox-themes/b-cube](https://github.com/bahadir-b-bekdemir/themes/tree/main/mozilla-firefox-themes/b-cube)
+
+</div>
 
 ---
 
@@ -98,7 +104,7 @@ b-cube/
 
 ## Lisans / License
 
-Bu proje [MIT License](LICENSE) altında lisanslanmıştır.  
-This project is licensed under the [MIT License](LICENSE).
+Bu tema [MIT License](LICENSE) ile lisanslanmıştır.  
+This theme is licensed under the [MIT License](LICENSE).
 
 © 2026 [Bahadır B. Bekdemir](mailto:bahadir.b.bekdemir@hotmail.com)
