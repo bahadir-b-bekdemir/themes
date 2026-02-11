@@ -6,16 +6,14 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Firefox](https://img.shields.io/badge/Firefox-Theme-FF7139?logo=firefox)](https://www.mozilla.org/firefox/)
-
-Minimal, modern Firefox static theme (dark only).
+[![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-blue.svg)](LICENSE)
+[![Firefox](https://img.shields.io/badge/Firefox-Tema-FF7139?logo=firefox)](https://www.mozilla.org/firefox/)
 
 **B - Cube**, Firefox için yalnızca koyu modda kullanılabilen, sade ve modern bir statik temadır.
 
 **Mozilla Add-ons:** [addons.mozilla.org/firefox/addon/b-cube](https://addons.mozilla.org/firefox/addon/b-cube)
 
-**Kaynak / Source:** [github.com/bahadir-b-bekdemir/themes → mozilla-firefox-themes/b-cube](https://github.com/bahadir-b-bekdemir/themes/tree/main/mozilla-firefox-themes/b-cube)
+**Kaynak:** [github.com/bahadir-b-bekdemir/themes → mozilla-firefox-themes/b-cube](https://github.com/bahadir-b-bekdemir/themes/tree/main/mozilla-firefox-themes/b-cube)
 
 </div>
 
@@ -23,38 +21,36 @@ Minimal, modern Firefox static theme (dark only).
 
 <div align="center">
 
-## Kendi bilgisayarında yükleme / Install on your computer
+## Kendi bilgisayarında yükleme
 
 </div>
 
-1. Bu depoyu indirin veya klonlayın. / *Download or clone this repository.*
-2. Firefox’ta adres çubuğuna `about:debugging` yazıp girin. / *In Firefox, type `about:debugging` in the address bar and press Enter.*
-3. *Bu Firefox* / *This Firefox* sekmesinde **Geçici eklenti yükle** / **Load Temporary Add-on** düğmesine tıklayın.
-4. `manifest.json` dosyasının bulunduğu `b-cube` klasörünü seçin. / *Select the `b-cube` folder that contains `manifest.json`.*
+1. Bu depoyu indirin veya klonlayın.
+2. Firefox’ta adres çubuğuna `about:debugging` yazıp girin.
+3. **Bu Firefox** sekmesinde **Geçici eklenti yükle** düğmesine tıklayın.
+4. `manifest.json` dosyasının bulunduğu `b-cube` klasörünü seçin.
 
-Tema yüklenecektir; geçici eklenti her Firefox yeniden başlatıldığında kaldırılır, tekrar yüklemeniz gerekir.  
-*The theme will load; the temporary add-on is removed on each Firefox restart, so you need to load it again if you restart.*
+Tema yüklenecektir; geçici eklenti her Firefox yeniden başlatıldığında kaldırılır, tekrar yüklemeniz gerekir.
 
 ---
 
 <div align="center">
 
-## Görünüm / Preview
+## Görünüm
+
+Temanın tarayıcıda nasıl göründüğü:
+
+![B - Cube tema önizlemesi](images/preview.svg)
+
+*Koyu arka plan, turuncu ve yeşil-sarı vurgular; sekme çubuğu ve araç çubuğu.*
 
 </div>
-
-Temanın tarayıcıda nasıl göründüğü / How the theme looks in the browser:
-
-![B - Cube tema önizlemesi](images/preview.png)
-
-*Koyu arka plan, turuncu ve yeşil-sarı vurgular; sekme çubuğu ve araç çubuğu.*  
-*Dark background with orange and yellow-green accents; tab bar and toolbar.*
 
 ---
 
 <div align="center">
 
-## Özellikler / Features
+## Özellikler
 
 </div>
 
@@ -66,18 +62,18 @@ Temanın tarayıcıda nasıl göründüğü / How the theme looks in the browser
 
 <div align="center">
 
-## Geliştirme / Development
+## Geliştirme
 
-### Gereksinimler / Requirements
+### Gereksinimler
 
 </div>
 
-- [Node.js](https://nodejs.org/) (LTS önerilir / LTS recommended)
+- [Node.js](https://nodejs.org/) (LTS önerilir)
 - [Firefox](https://www.mozilla.org/firefox/)
 
 <div align="center">
 
-### Bağımlılıkları yükleme / Install dependencies
+### Bağımlılıkları yükleme
 
 </div>
 
@@ -87,7 +83,7 @@ npm install
 
 <div align="center">
 
-### Geliştirme modunda çalıştırma / Run in development
+### Geliştirme modunda çalıştırma
 
 </div>
 
@@ -95,12 +91,11 @@ npm install
 npm run run
 ```
 
-Firefox’ta geçici bir profil ile eklenti açılır.  
-*Opens the add-on in Firefox with a temporary profile.*
+Firefox’ta geçici bir profil ile eklenti açılır.
 
 <div align="center">
 
-### Derleme (paket oluşturma) / Build (create package)
+### Derleme (paket oluşturma)
 
 </div>
 
@@ -108,8 +103,7 @@ Firefox’ta geçici bir profil ile eklenti açılır.
 npm run build
 ```
 
-Çıktı `web-ext-artifacts/` klasöründe `.xpi` dosyası olarak oluşur.  
-*Output is generated as a `.xpi` file in the `web-ext-artifacts/` folder.*
+Çıktı `web-ext-artifacts/` klasöründe `.xpi` dosyası olarak oluşur.
 
 <div align="center">
 
@@ -125,16 +119,16 @@ npm run lint
 
 <div align="center">
 
-## Proje yapısı / Project structure
+## Proje yapısı
 
 </div>
 
 ```
 b-cube/
-├── manifest.json   # Tema tanımı (renkler vb.) / Theme definition (colors etc.)
+├── manifest.json   # Tema tanımı (renkler vb.)
 ├── package.json
 ├── images/
-│   └── preview.png
+│   └── preview.svg
 ├── README.md
 ├── LICENSE
 └── .gitignore
@@ -144,11 +138,10 @@ b-cube/
 
 <div align="center">
 
-## Lisans / License
+## Lisans
 
-</div>
-
-Bu tema [MIT License](LICENSE) ile lisanslanmıştır.  
-This theme is licensed under the [MIT License](LICENSE).
+Bu tema [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 © 2026 [Bahadır B. Bekdemir](mailto:bahadir.b.bekdemir@hotmail.com)
+
+</div>

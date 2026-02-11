@@ -1,15 +1,14 @@
 <div align="center">
 
-# Themes
+# Temalar
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Chrome](https://img.shields.io/badge/Chrome-Theme-4285F4?logo=googlechrome)](https://www.google.com/chrome/)
-[![Firefox](https://img.shields.io/badge/Firefox-Theme-FF7139?logo=firefox)](https://www.mozilla.org/firefox/)
+[![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-blue.svg)](LICENSE)
+[![Chrome](https://img.shields.io/badge/Chrome-Tema-4285F4?logo=googlechrome)](https://www.google.com/chrome/)
+[![Firefox](https://img.shields.io/badge/Firefox-Tema-FF7139?logo=firefox)](https://www.mozilla.org/firefox/)
 
-Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).  
-*Browser themes — **B - Cube** (Chrome & Firefox, dark only).*
+Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 </div>
 
@@ -25,28 +24,23 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 **B - Cube**, aynı renk paletini kullanan, sade ve modern iki tarayıcı temasıdır. Yalnızca koyu modda kullanılır; turuncu, yeşil-sarı ve mavi vurgularla göz yormayan koyu arka plan sunar.
 
-***B - Cube** is a minimal, modern browser theme available for Chrome and Firefox, with a shared dark color palette and orange, yellow-green and blue accents.*
-
-| Tarayıcı / Browser | Klasör / Folder | README |
-|--------------------|-----------------|--------|
-| **Chrome** | [google-chrome-themes/b-cube](google-chrome-themes/b-cube) | [Kurulum & detay](google-chrome-themes/b-cube/README.md) |
+| Tarayıcı | Klasör | README |
+|----------|--------|--------|
+| **Chrome** | [google-chrome-themes/b-cube](google-chrome-themes/b-cube) | [Kurulum & detay](google-chrome-themes/b-cube/README.md) · [Chrome Web Store](https://chromewebstore.google.com/detail/b-cube/chgdpebcncdaobpplidlcmodpdklmpfm) |
 | **Firefox** | [mozilla-firefox-themes/b-cube](mozilla-firefox-themes/b-cube) | [Kurulum & detay](mozilla-firefox-themes/b-cube/README.md) · [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/b-cube/) |
 
 ---
 
 <div align="center">
 
-## Hızlı kurulum / Quick install
+## Hızlı kurulum
 
 ### Chrome
 
 </div>
 
-1. Depoyu indirin veya klonlayın.
-2. Chrome’da `chrome://extensions` → **Geliştirici modu** → **Paketlenmemiş öğe yükle**.
-3. `google-chrome-themes/b-cube` klasörünü seçin.
-
-*Download or clone this repo → Chrome: `chrome://extensions` → Developer mode → Load unpacked → select `google-chrome-themes/b-cube`.*
+- **Mağazadan:** [Chrome Web Store'da B - Cube](https://chromewebstore.google.com/detail/b-cube/chgdpebcncdaobpplidlcmodpdklmpfm)
+- **Manuel:** Depoyu indirin veya klonlayın → Chrome’da `chrome://extensions` → **Geliştirici modu** → **Paketlenmemiş öğe yükle** → `google-chrome-themes/b-cube` klasörünü seçin.
 
 <div align="center">
 
@@ -54,44 +48,42 @@ Tarayıcı temaları — **B - Cube** (Chrome ve Firefox, koyu mod).
 
 </div>
 
-- **Mağazadan:** [Mozilla Add-ons’ta B - Cube](https://addons.mozilla.org/firefox/addon/b-cube/)  
+- **Mağazadan:** [Mozilla Add-ons’ta B - Cube](https://addons.mozilla.org/firefox/addon/b-cube/)
 - **Manuel:** Depoyu indirin veya klonlayın → Firefox’ta `about:debugging` → **Bu Firefox** → **Geçici eklenti yükle** → `mozilla-firefox-themes/b-cube` içindeki `manifest.json` veya b-cube klasörünü seçin.
-
-*From store: [B - Cube on Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/b-cube/). Or: download/clone this repo → Firefox: `about:debugging` → This Firefox → Load Temporary Add-on → select the `b-cube` folder.*
 
 ---
 
 <div align="center">
 
-## Ortak özellikler / Shared features
+## Ortak özellikler
 
 </div>
 
-- **Koyu tema** — Göz yormayan koyu renk paleti  
-- **Aynı görünüm** — Chrome ve Firefox’ta uyumlu renkler  
-- **Minimal** — Sade çerçeve, sekme ve araç çubuğu  
-- **Manifest v3** — Güncel tema / eklenti standardı  
+- **Koyu tema** — Göz yormayan koyu renk paleti
+- **Aynı görünüm** — Chrome ve Firefox’ta uyumlu renkler
+- **Minimal** — Sade çerçeve, sekme ve araç çubuğu
+- **Manifest v3** — Güncel tema / eklenti standardı
 
 ---
 
 <div align="center">
 
-## Repo yapısı / Repository structure
+## Repo yapısı
 
 </div>
 
 ```
 themes/
-├── README.md                 # Bu dosya / This file
+├── README.md                 # Bu dosya
 ├── LICENSE
 ├── google-chrome-themes/
-│   └── b-cube/               # Chrome teması / Chrome theme
+│   └── b-cube/               # Chrome teması
 │       ├── manifest.json
 │       ├── images/
 │       ├── README.md
 │       └── LICENSE
 └── mozilla-firefox-themes/
-    └── b-cube/               # Firefox teması / Firefox theme
+    └── b-cube/               # Firefox teması
         ├── manifest.json
         ├── package.json
         ├── images/
@@ -99,18 +91,17 @@ themes/
         └── LICENSE
 ```
 
-Her tema kendi klasöründe ayrı README ve lisans bilgisi içerir.  
-*Each theme has its own README and license in its folder.*
+Her tema kendi klasöründe ayrı README ve lisans bilgisi içerir.
 
 ---
 
 <div align="center">
 
-## Lisans / License
+## Lisans
 
-</div>
-
-- **Chrome** teması: [LICENSE](google-chrome-themes/b-cube/LICENSE) (MIT).  
-- **Firefox** teması: [LICENSE](mozilla-firefox-themes/b-cube/LICENSE) (MIT).
+- **Chrome** teması: [LICENSE](google-chrome-themes/b-cube/LICENSE) (MIT)
+- **Firefox** teması: [LICENSE](mozilla-firefox-themes/b-cube/LICENSE) (MIT)
 
 © 2026 [Bahadır B. Bekdemir](mailto:bahadir.b.bekdemir@hotmail.com)
+
+</div>
